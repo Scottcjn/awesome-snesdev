@@ -86,6 +86,7 @@ See also: [Awesome NESdev](https://github.com/Scottcjn/awesome-nesdev).
 - [snes-breakout](https://github.com/georgjz/snes-breakout) - A small, complete Breakout clone written in SNES assembly.
 - [SNES_00](https://github.com/nesdoug/SNES_00) - nesdoug's SNES test and example code, part of a numbered example series.
 - [SA1-Root](https://github.com/VitorVilela7/SA1-Root) - An open project for accelerating SNES games with the SA-1 chip, with substantial documented 65816/SA-1 source.
+- [Neon Scenes](https://github.com/eliasggs/neon-scenes) - A GPL-3.0 SNES demo in 65816 assembly (WLA-DX) with Mode 7 and HDMA scenes, for real hardware.
 
 ## Flashcarts & Hardware
 
